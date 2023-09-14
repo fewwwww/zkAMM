@@ -1,2 +1,11 @@
 # zkAMM
-AMM with zkOracle.
+
+zkAMM is an AMM with zkOracle.
+
+## Deployments
+
+On Sepolia:
+
+- Token0: 0x1b3631A99A69275bC7E3b539FeD4DaAFaDDfe1B0
+- Token1: 0x7aBF19CE8696A1D8945F9125758EbCe2F6F0Fd91
+- ZkAmmPair: 0x94aD21Bf72F0f4ab545E59ea3d5C1F863d74C629
