@@ -1,6 +1,18 @@
 # zkAMM
 
-zkAMM is an AMM with zkOracle.
+An AMM powered by Hyper Oracle zkOracle.
+
+## Introduction
+
+zkAMM's core computation (eg. addLiquidity) are performed in zkOracle, rather than in traditional onchain calculations in Solidity. This gives zkAMM unlimited logic expansion and complexity, as zkOracle is not limited by the computational resources of the EVM, and any computation in zkOracle ends up as an O(1) Cost zk proof. 
+
+## Workflow
+
+![workflow](https://cdn.dorahacks.io/static/files/18a91937750ea8e891989df4aa7a8925.png)
+
+## Next Steps
+
+zkAMM currently implements the Uniswap v2 architecture with an onchain smart contract to handle and verify zkOracle computations and zk proofs and a zkGraph to program and config zkOracle, and will continue to implement the v3 and v4 architectures.
 
 ## Deployments
 
