@@ -8,7 +8,7 @@ zkAMM's core computation (eg. addLiquidity) are performed in zkOracle, rather th
 
 ## Workflow
 
-![workflow](https://cdn.dorahacks.io/static/files/18a91937750ea8e891989df4aa7a8925.png)
+![workflow](https://i.ibb.co/6szVpS4/2023-10-06-1-40-40.png)
 
 ## Next Steps
 
